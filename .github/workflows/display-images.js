@@ -1,8 +1,8 @@
 const fs = require('fs');
 const cheerio = require('cheerio');
 
-const htmlFilePath = 'path/to/your/html-file.html'; // HTMLファイルのパスを指定
-const imageDirectory = 'path/to/your/image-directory'; // 画像が含まれるディレクトリのパスを指定
+const htmlFilePath = '../../basic-tutorial/imgs4.html'; // HTMLファイルのパスを指定
+const imageDirectory = '../../basic-tutorial/4章画像'; // 画像が含まれるディレクトリのパスを指定
 
 // HTMLファイルを読み込み、画像を表示する処理を実行
 fs.readFile(htmlFilePath, 'utf8', (err, data) => {
