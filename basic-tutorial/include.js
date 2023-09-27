@@ -61,7 +61,7 @@ function foooooter() {
     document.write(`    <footer>
     <div class="social" align="center">
     <li class="l-globalHeader_snsItem">
-        <a target="_blank" href="https://x.com/nikachu2012">
+        <a target="_blank" href="https://x.com/">
             <svg width="30" height="30" id="_レイヤー_2" data-name="レイヤー 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300"style="
             padding-left: 58px;
         ">
@@ -74,7 +74,7 @@ function foooooter() {
         </a>
     </li>
 </div>
-    <p>©Copyright © css_py,nikachu2012,ChameleonColin,Kesan92231298</p>
+    <p>©Copyright © css_py</p>
     <p>画像以外の無断コピーを固く禁ずる。</p>
 
 </footer>`);
