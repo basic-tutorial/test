@@ -35,7 +35,7 @@ jobs:
     - name: List images
       run: |
         # 画像を表示したいディレクトリへ移動
-        cd basic-tutorial/4章画像
+        cd ../../basic-tutorial/4章画像
 
         # 画像ファイルのリストを取得
         images=$(ls -1 *.jpg *.png)
